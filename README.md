@@ -1,4 +1,5 @@
-👋 Hi, I'm **Alejandro Bernués**  
+# 👋 Hi, I'm Alejandro Bernués
+
 I'm a Web Application Development (DAW) student at **Institut ITIC de Barcelona**, currently in my first year.  
 I'm 19 years old and passionate about technology, programming, and web development. I'm currently building my foundations in both frontend and backend development, learning how different technologies work together to create web applications.
 
@@ -50,5 +51,5 @@ Feel free to explore my repositories!
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bernues-alejandro&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
