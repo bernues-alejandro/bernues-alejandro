@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alejandro Bernués
 
-I'm a Web Application Development (DAW) student at **Institut ITIC de Barcelona**, currently in my first year.  
+I'm a Web Application Development (DAW) student at **Institut ITIC de Barcelona**, currently in first year.  
 I'm 18 years old and passionate about technology, programming, and web development. I'm currently building my foundations in both frontend and backend development, learning how different technologies work together to create web applications.
 
 ---
